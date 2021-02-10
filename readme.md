@@ -1,5 +1,5 @@
-﻿## Classification musicale 
-## Visualisation du montant total de l'aide exceptionnelle « CPSTI RCI COVID-19 » par région 
+## Visualisation du montant total de l'aide 
+## exceptionnelle « CPSTI RCI COVID-19 » par région 
 
 ## Jeu de données
 
