@@ -1,4 +1,4 @@
-## Visualisation du montant total de l'aide<br/> exceptionnelle « CPSTI RCI COVID-19 » par région 
+## Visualisation du montant total de l'aide exceptionnelle <br/> « CPSTI RCI COVID-19 » par région 
 
 ## Jeu de données
 
